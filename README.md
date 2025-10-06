@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abdelaleam</h1>
-<h3 align="center">💻 Backend Developer | .NET Enthusiast | Exploring Node.js 🚀</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Abdelaleam!" alt="Animated greeting"/>
+</p>
+
+<p align="center">
+  <span style="color:#ff0000; font-size:28px; font-weight:bold; text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000, 0 0 20px #ff5555, 0 0 40px #ff7777;">
+    💻 Backend Developer | .NET Enthusiast | Exploring Node.js 🚀
+  </span>
+</p>
 
 ---
 
@@ -7,7 +14,7 @@
 - 🎓 **CS Student** passionate about backend technologies  
 - 💼 Experienced in **.NET (MVC & Web APIs)**, **C#**, and **SQL Server**  
 - 🌱 Currently diving into **Node.js** & **RESTful API design**  
-- 💡 I love building scalable, clean, and efficient backend systems 
+- 💡 I love building scalable, clean, and efficient backend systems  
 
 ---
 
@@ -26,12 +33,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-aniket-765.vercel.app/api?username=Abdelaleam&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=Abdelaleam&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelaleam&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Abdelaleam&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-aniket-765.vercel.app/api/top-langs/?username=Abdelaleam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelaleam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
 </p>
 
 ---
